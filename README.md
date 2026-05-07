@@ -162,8 +162,7 @@ python -c "import nltk; nltk.download('punkt')"
 
 ## Dataset
 
-Used dataset is existed in this repo github.com/shammur/Arabic-Offensive-Multi-Platform-SocialMedia-Comment-Dataset
-
+Used dataset is [existed in this repo](github.com/shammur/Arabic-Offensive-Multi-Platform-SocialMedia-Comment-Dataset)
 The code expects a file named `ardata.csv` in the project root with at least these two columns:
 
 | Column | Description |
