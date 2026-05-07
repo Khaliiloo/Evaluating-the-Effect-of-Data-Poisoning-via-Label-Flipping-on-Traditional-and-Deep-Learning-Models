@@ -1,4 +1,4 @@
-# Arabic Offensive Language Detection under Label Noise
+# Evaluating the Effect of Data Poisoning via Label Flipping on Traditional and Deep Learning Models for Arabic Offensive Text Detection
 
 > A reproducible benchmarking framework that evaluates **six classifiers** — including Arabic BERT — on detecting offensive Arabic social-media content, with a systematic study of how **label noise** and **class imbalance** jointly affect model robustness.
 
