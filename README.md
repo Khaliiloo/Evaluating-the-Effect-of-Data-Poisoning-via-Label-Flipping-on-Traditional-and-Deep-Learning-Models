@@ -1,6 +1,7 @@
 # Evaluating the Effect of Data Poisoning via Label Flipping on Traditional and Deep Learning Models for Arabic Offensive Text Detection
 
 > A reproducible benchmarking framework that evaluates **six classifiers** — including Arabic BERT — on detecting offensive Arabic social-media content, with a systematic study of how **label noise** and **class imbalance** jointly affect model robustness.
+[Paper link](https://ieeexplore.ieee.org/document/11527193)
 
 ---
 
@@ -161,7 +162,6 @@ python -c "import nltk; nltk.download('punkt')"
 ---
 
 ## Dataset
-
 Used dataset is [existed in this repo](https://github.com/shammur/Arabic-Offensive-Multi-Platform-SocialMedia-Comment-Dataset)
 
 The code expects a file named `ardata.csv` in the project root with at least these two columns:
